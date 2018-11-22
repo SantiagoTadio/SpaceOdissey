@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>img/AugusGalactus_pix.png</file>
+        <file>img/bg2.png</file>
+        <file>img/chowie_pix.png</file>
+        <file>img/fireball_big2.png</file>
+        <file>img/fireball_small2.png</file>
+        <file>img/gary_pix.png</file>
+        <file>img/Mooncake_pix.png</file>
+        <file>img/peque3.png</file>
+        <file>img/santiago_pix.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>son/audio.mp3</file>
+        <file>son/shot1.mp3</file>
+        <file>son/shot2.mp3</file>
+        <file>son/shot3.mp3</file>
+    </qresource>
+</RCC>
