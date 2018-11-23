@@ -1,7 +1,11 @@
 #include "personaje.h"
 
-personaje::personaje()
+personaje::personaje(string hero, string nom, int vid)
 {
+    heroe = hero;
+    nombre = nom;
+    vida = vid;
+
 
 }
 
